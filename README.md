@@ -10,8 +10,8 @@
 
 ### Exemplos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francomasa&repo=elemental_o_sitio&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francomasa&repo=site_gameshop&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francomasa&repo=bootstrap_exercicio&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francomasa&repo=css_responsivo&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contato
 
