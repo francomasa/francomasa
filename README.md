@@ -6,7 +6,6 @@
 
 ### Detalhes
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=francomasa&theme=transparent&locale=pt-br)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francomasa&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Exemplos
